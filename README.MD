@@ -1,7 +1,6 @@
 # Curso de Java oferecido pela Dio em parcia com Quebec 93 Horas
 16/09/2022
-## [Certificados: Todos os Certificados do Curso[Neste
-mesmo curso]](certificados)
+## [Todos os Certificados do Curso[Neste mesmo curso]](certificados)
 
 Somente os principais certificados dos exames:
 
