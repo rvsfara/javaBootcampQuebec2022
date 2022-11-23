@@ -19,7 +19,7 @@ Somente os principais certificados dos exames:
 ## Imersão no Spring Framework com Spring Boot
 ![Spring](imgCertificados/20221020_Spring_Framework_Spring_Boot.png)
 
-Simplificando Projetos Java com o Spring Boot
+## Simplificando Projetos Java com o Spring Boot
 ![Boot](imgCertificados/20221020_Spring_Boot_Java.png)
 
 ## Criando uma API REST Documentada com Spring Web  Swagger
