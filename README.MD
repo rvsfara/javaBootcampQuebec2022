@@ -1,5 +1,9 @@
 # Curso de Java oferecido pela Dio em parcia com Quebec 93 Horas
-16/09/2022
+
+Desafios de Código e os Desafios de projeto vou incluir neste projeto
+comentei as principais partes do código para auxiliar desenvolvedores iniciantes
+a programar e entender o código.
+
 ## [Todos os Certificados do Curso[Neste mesmo curso]](certificados)
 
 ## Certificado do Bootcamp
